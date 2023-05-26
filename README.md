@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hello, I'm Danyon, I am a game developer and CEO for Not-So Classic Games. I have been making games since late 2012 using the Unity Engine and C#.
 
 # What I've worked on.
 Here you can see what I have done and/or doing.
@@ -14,20 +14,13 @@ Here you can see what I have done and/or doing.
 | [Deltazone](https://store.steampowered.com/app/2127310/Deltazone/) | Finished | Programming Support | [EvolvedPhoenix Studios](https://twitter.com/EvolvedPhnixDev)
 
 # What I Know
-Want to know my skills? Check them out here.
-
+Want to know my skills? Check them out here. I'm still learning everyday and willing to improve what I know.
 | Skill | Since | Education |
 | --- | --- | --- |
-| --- | --- | --- |
-
-
-
-
-
-
-
-
-
-
-
-
+| C# | 2012 | Self-Taught
+| [Unity](https://unity.com/) | 2012 | Self-Taught
+| [Blender](https://www.blender.org/) | 2014 | Self-Taught
+| [FL Studio](https://www.image-line.com/) | 2015 | Self-Taught
+| [Substance Painter](https://www.adobe.com/products/substance3d-painter.html) | 2016 | Self-Taught
+| [Substance Designer](https://www.adobe.com/products/substance3d-designer.html) | 2019 | Self-Taught
+| [Photoshop](https://www.adobe.com/products/photoshop.html) | 2008 | Self-Taught
