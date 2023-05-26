@@ -26,3 +26,13 @@ Want to know my skills? Check them out here. I'm still learning everyday and wil
 | [Substance Painter](https://www.adobe.com/products/substance3d-painter.html) | 2016 | Self-Taught
 | [Substance Designer](https://www.adobe.com/products/substance3d-designer.html) | 2019 | Self-Taught
 | [Photoshop](https://www.adobe.com/products/photoshop.html) | 2008 | Self-Taught
+
+# What I Have Messed With
+Here are some stuff I have messed with but never fully learnd. Don't expect anything impressive from these.
+| Skill | Since |
+| --- | --- |
+| C++ | 2021
+| [Unreal Engine](https://www.unrealengine.com/en-US) | 2020
+| [OpenGL](https://www.opengl.org/) | 2020
+| [JavaScript](https://www.javascript.com/) | 2010
+| [Autodesk Maya](https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription) | 2014
