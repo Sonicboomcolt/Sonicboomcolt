@@ -1,6 +1,9 @@
 ### Hi there 👋
 Hello, I'm Danyon, I am a game developer and CEO for Not-So Classic Games. I have been making games since late 2012 using the Unity Engine and C#.
 
+-- How I see my self.
+> Jack of all trades, master of none
+
 # What I've worked on.
 Here you can see what I have done and/or doing.
 | Game | Status | Role | Company |
