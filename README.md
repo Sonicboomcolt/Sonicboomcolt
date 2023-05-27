@@ -23,7 +23,7 @@ Want to know my skills? Check them out here. I'm still learning everyday and wil
 | Skill | Since | Education |
 | --- | --- | --- |
 | C# | 2012 | Self-Taught
-| [GameMaker 8](https://gamemaker.io/en) | 20010 | Self-Taught
+| [GameMaker 8](https://gamemaker.io/en) | 2010 | Self-Taught
 | [Unity](https://unity.com/) | 2012 | Self-Taught
 | [Blender](https://www.blender.org/) | 2014 | Self-Taught
 | [FL Studio](https://www.image-line.com/) | 2015 | Self-Taught
