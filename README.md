@@ -40,7 +40,7 @@ Want to know my skills? Check them out here. I'm still learning everyday and wil
 | [Photoshop](https://www.adobe.com/products/photoshop.html) | 2008 | Self-Taught
 
 # What I Have Messed With
-Here are some stuff I have messed with but never fully learnd. Don't expect anything impressive from these skills (yet).
+Here are some stuff I have messed with but never fully learnt. Don't expect anything impressive from these skills (yet).
 | Skill | Since |
 | --- | --- |
 | C++ | 2021
