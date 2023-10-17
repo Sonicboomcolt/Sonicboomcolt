@@ -28,7 +28,7 @@ Here you can see what I have done and/or doing.
 Want to know my skills? Check them out here. I'm still learning everyday and willing to improve what I know.
 | Skill | Since | Education |
 | --- | --- | --- |
-| C# | 2012 | Self-Taught
+| [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) | 2012 | Self-Taught
 | [GameMaker 8](https://gamemaker.io/en) | 2010 | Self-Taught
 | [Unity](https://unity.com/) | 2012 | Self-Taught
 | [Blender](https://www.blender.org/) | 2014 | Self-Taught
@@ -41,7 +41,7 @@ Want to know my skills? Check them out here. I'm still learning everyday and wil
 Here are some stuff I have messed with but never fully learnt. Don't expect anything impressive from these skills (yet).
 | Skill | Since |
 | --- | --- |
-| C++ | 2021
+| [C++](https://en.wikipedia.org/wiki/C%2B%2B) | 2021
 | [Unreal Engine](https://www.unrealengine.com/en-US) | 2020
 | [OpenGL](https://www.opengl.org/) | 2020
 | [JavaScript](https://www.javascript.com/) | 2010
