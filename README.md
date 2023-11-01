@@ -1,5 +1,6 @@
 ### Hi there 👋
 Hello, I'm Danyon, I am a game developer for Not-So Classic Games. I have been making games since late 2012 using the Unity Engine and C#.
+I'm open for work as Not-So Classic Games is my hobby not my offical job.
 
 # What I've worked on.
 Here you can see what I have done and/or doing.
@@ -40,10 +41,10 @@ Want to know my skills? Check them out here. I'm still learning everyday and wil
 
 # What I Have Messed With
 Here are some stuff I have messed with but never fully learnt. Don't expect anything impressive from these skills (yet).
-| Skill | Since |
-| --- | --- |
-| [C++](https://en.wikipedia.org/wiki/C%2B%2B) | 2021
-| [Unreal Engine](https://www.unrealengine.com/en-US) | 2020
-| [OpenGL](https://www.opengl.org/) | 2020
-| [JavaScript](https://www.javascript.com/) | 2010
-| [Autodesk Maya](https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription) | 2014
+| Skill | Since | Education |
+| --- | --- | --- |
+| [C++](https://en.wikipedia.org/wiki/C%2B%2B) | 2021 | Self-Taught
+| [Unreal Engine](https://www.unrealengine.com/en-US) | 2020 | Self-Taught
+| [OpenGL](https://www.opengl.org/) | 2020 | Self-Taught
+| [JavaScript](https://www.javascript.com/) | 2010 | Self-Taught
+| [Autodesk Maya](https://www.autodesk.com/products/maya/overview?term=1-YEAR&tab=subscription) | 2014 | Self-Taught
