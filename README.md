@@ -39,6 +39,13 @@ Want to know my skills? Check them out here. I'm still learning everyday and wil
 | [Substance Designer](https://www.adobe.com/products/substance3d-designer.html) | 2019 | Self-Taught
 | [Photoshop](https://www.adobe.com/products/photoshop.html) | 2008 | Self-Taught
 
+# What I Have Taught
+Here is some of the stuff I have taught to others who have asked.
+| Skill | How Long |
+| --- | --- |
+| [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) | 2014 - 2023
+| [Unity](https://unity.com/) | 2015 - 2022
+
 # What I Have Messed With
 Here are some stuff I have messed with but never fully learnt. Don't expect anything impressive from these skills (yet).
 | Skill | Since | Education |
