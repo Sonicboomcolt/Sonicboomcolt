@@ -1,6 +1,6 @@
 ### Hi there 👋
 Hello, I'm Danyon, I am a game developer for Not-So Classic Games. I have been making games since late 2012 using the Unity Engine and C#.
-I'm open for work!
+I'm looking for work!
 
 # What I've worked on.
 Here you can see what I have done and/or doing.
