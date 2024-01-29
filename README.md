@@ -51,6 +51,7 @@ Here is some of the stuff I have taught to others who have asked.
 Here are some stuff I have messed with but never fully learnt. Don't expect anything impressive from these skills (yet).
 | Skill | Since | Education |
 | --- | --- | --- |
+| [SQL](https://en.wikipedia.org/wiki/SQL) | 2022 | Self-Taught
 | [C++](https://en.wikipedia.org/wiki/C%2B%2B) | 2021 | Self-Taught
 | [Unreal Engine](https://www.unrealengine.com/en-US) | 2020 | Self-Taught
 | [OpenGL](https://www.opengl.org/) | 2020 | Self-Taught
