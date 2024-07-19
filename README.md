@@ -6,7 +6,7 @@ I'm looking for work!
 Here you can see what I have done and/or doing.
 | Game | Status | Role | Company |
 | --- | --- |--- | --- |
-| Unannounced Project | On-Hold | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/)
+| Unannounced Project | In-Development | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/)
 | [Cat Warfare](https://store.steampowered.com/app/923370/Cat_Warfare/) | In-Development | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/)
 | [Down The Hole](https://store.steampowered.com/app/1260160/Down_The_Hole/) | Finished | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/)
 | [Where Is My Parking Spot](https://store.steampowered.com/app/1374400/Where_Is_My_Parking_Spot/) | Finished | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/)
