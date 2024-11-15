@@ -32,7 +32,7 @@ Here you can see what I have done and/or doing.
 
 What People Say About My Work
 > *"In all of my working with Danyon, he's shown total competency with every single task he's done and works to make every programming solution he creates as readable and efficient as possible. He creates systems according to instructions and always leaves the end result polished and easy to use. He's also very flexible when it comes to unforeseen challenges and is great at pivoting to find solutions. As far as character goes, time and time again Danyon has shown strong generosity, patience, and integrity both professionally and personally. It's been amazing working with Danyon, and he'd be a great part of any team."*  
-> — **Oakley Blade., Lead Developer, [Oakley Blade Games](https://oakleyblade.com/)**
+> — **Oakley Blade., CEO, [Oakley Blade Games](https://oakleyblade.com/)**
 
 ## 🎓 What I Know  
 Curious about my skills? Here’s what I’ve been working with over the years. I’m always learning and eager to improve!  
