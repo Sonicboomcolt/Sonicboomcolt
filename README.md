@@ -6,8 +6,8 @@ I'm looking for work!
 Here you can see what I have done and/or doing.
 | Project | Status | Role | Organization | Year |
 |---------|--------|------|--------------|------|
-| [Catto Pew Pew! VR](https://store.steampowered.com/app/2065330/Catto_Pew_Pew/) | In-Development | Assisting Programmer | [Oakley Blade Games](https://oakleyblade.com/) | 2024 |
-| Unannounced Project | In-Development | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2024 |
+| [Catto Pew Pew! VR](https://store.steampowered.com/app/2065330/Catto_Pew_Pew/) | Developing | Assisting Programmer | [Oakley Blade Games](https://oakleyblade.com/) | 2024 |
+| Unannounced Project | Developing | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2024 |
 | [Curfiddle](https://sonicboomcolt.itch.io/curfiddle) | Finished | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2022 |
 | [HeadHunter](https://sonicboomcolt.itch.io/headhunter) | Finished | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2022 |
 | [Coffling](https://sonicboomcolt.itch.io/coffling) | Finished | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2022 |
@@ -26,7 +26,7 @@ Here you can see what I have done and/or doing.
 | [The-Square](https://sonicboomcolt.itch.io/the-square) | Finished | Programer / Music Composer | [BillyMan](https://billyman.itch.io/) | 2020 |
 | [FIX THEM BOTS](https://billyman.itch.io/fix-them-bots) | Finished | Music Composer | [BillyMan](https://billyman.itch.io/) | 2020 |
 | [PACE](https://malkystuffs.itch.io/pace) | Finished | Music Composer | [Malky Stuffs](https://malkystuffs.itch.io/) | 2020 |
-| [Cat Warfare](https://store.steampowered.com/app/923370/Cat_Warfare/) | In-Development | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2018 |
+| [Cat Warfare](https://store.steampowered.com/app/923370/Cat_Warfare/) | Developing | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2018 |
 
 # What I Know
 Want to know my skills? Check them out here. I'm still learning everyday and willing to improve what I know.
