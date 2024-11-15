@@ -30,7 +30,7 @@ Here you can see what I have done and/or doing.
 
 ## 🗨️ Testimonials
 
-### **What People Say About My Work**
+What People Say About My Work
 > *"TEMP DATA"*  
 > — **NAME., ROLE, [COMPANY](https://www.google.com/)**
 
