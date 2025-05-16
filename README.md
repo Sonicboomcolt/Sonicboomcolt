@@ -27,7 +27,7 @@ Here you can see what I have done and/or doing.
 | [The-Square](https://sonicboomcolt.itch.io/the-square) | Finished | Programer / Music Composer | [BillyMan](https://billyman.itch.io/) | 2020 |
 | [FIX THEM BOTS](https://billyman.itch.io/fix-them-bots) | Finished | Music Composer | [BillyMan](https://billyman.itch.io/) | 2020 |
 | [PACE](https://malkystuffs.itch.io/pace) | Finished | Music Composer | [Malky Stuffs](https://malkystuffs.itch.io/) | 2020 |
-| Phoenix Tales - The Obsidian Titan | Canceled | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2019 |
+| Phoenix Tales | Canceled | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2019 |
 | [Cat Warfare](https://store.steampowered.com/app/923370/Cat_Warfare/) | Developing | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2018 |
 | Last Stand | Canceled | Lead Programer | Danyon Huntington | 2017 |
 | Legends of Dulanth | Canceled | Lead Programer | Danyon Huntington | 2017 |
