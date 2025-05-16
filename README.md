@@ -31,6 +31,7 @@ Here you can see what I have done and/or doing.
 | [Cat Warfare](https://store.steampowered.com/app/923370/Cat_Warfare/) | Developing | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2018 |
 | Last Stand | Canceled | Lead Programer | Danyon Huntington | 2017 |
 | Legends of Dulanth | Canceled | Lead Programer | Danyon Huntington | 2017 |
+| [Exitus Demo](https://gamejolt.com/games/Exitus_Demo/140839) | Finished | Lead Programer | Danyon Huntington | 2016 |
 | Sydney Land | Canceled | Lead Programer | Danyon Huntington | 2014 |
 
 ## 🗨️ Testimonials
