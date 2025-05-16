@@ -14,8 +14,8 @@ Here you can see what I have done and/or doing.
 | [Coffling](https://sonicboomcolt.itch.io/coffling) | Finished | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2022 |
 | [Clown Meltdown](https://dynamite-stew.itch.io/clown-meltdown) | Finished | Networking Expert / Assisting Programmer | [Dynamite Stew](https://dynamite-stew.itch.io/) | 2022 |
 | [Catto Pew Pew!](https://store.steampowered.com/app/2065330/Catto_Pew_Pew/) | Finished | Assisting Programmer | [Oakley Blade Games](https://oakleyblade.com/) | 2022 |
-| [Deltazone](https://store.steampowered.com/app/2127310/Deltazone/) | Developing | Programming Support | [EvolvedPhoenix Studios](https://twitter.com/EvolvedPhnixDev) | 2022 |
-| [Where Is My Parking Spot 2](https://store.steampowered.com/app/1631260/Where_Is_My_Parking_Spot__Parking_Reimagined) | Canceled | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2021 |
+| [Deltazone](https://store.steampowered.com/app/2127310/Deltazone/) | On-Hold | Programming Support | [EvolvedPhoenix Studios](https://twitter.com/EvolvedPhnixDev) | 2022 |
+| [Where Is My Parking Spot 2](https://store.steampowered.com/app/1631260/Where_Is_My_Parking_Spot__Parking_Reimagined) | On-Hold | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2021 |
 | [Happbee](https://sonicboomcolt.itch.io/happbee) | Finished | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2021 |
 | [Short Fuse](https://dynamite-stew.itch.io/short-fuse) | Finished | Lead Programmer / Networking Expert | [Dynamite Stew](https://dynamite-stew.itch.io/) | 2021 |
 | [Down The Hole](https://store.steampowered.com/app/1260160/Down_The_Hole/) | Finished | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2020 |
@@ -27,7 +27,11 @@ Here you can see what I have done and/or doing.
 | [The-Square](https://sonicboomcolt.itch.io/the-square) | Finished | Programer / Music Composer | [BillyMan](https://billyman.itch.io/) | 2020 |
 | [FIX THEM BOTS](https://billyman.itch.io/fix-them-bots) | Finished | Music Composer | [BillyMan](https://billyman.itch.io/) | 2020 |
 | [PACE](https://malkystuffs.itch.io/pace) | Finished | Music Composer | [Malky Stuffs](https://malkystuffs.itch.io/) | 2020 |
+| Phoenix Tales - The Obsidian Titan | Canceled | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2019 |
 | [Cat Warfare](https://store.steampowered.com/app/923370/Cat_Warfare/) | Developing | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2018 |
+| Last Stand | Canceled | Lead Programer | Danyon Huntington | 2017 |
+| Legends of Dulanth | Canceled | Lead Programer | Danyon Huntington | 2017 |
+| Sydney Land | Canceled | Lead Programer | Danyon Huntington | 2014 |
 
 ## 🗨️ Testimonials
 
