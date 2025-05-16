@@ -15,7 +15,7 @@ Here you can see what I have done and/or doing.
 | [Clown Meltdown](https://dynamite-stew.itch.io/clown-meltdown) | Finished | Networking Expert / Assisting Programmer | [Dynamite Stew](https://dynamite-stew.itch.io/) | 2022 |
 | [Catto Pew Pew!](https://store.steampowered.com/app/2065330/Catto_Pew_Pew/) | Finished | Assisting Programmer | [Oakley Blade Games](https://oakleyblade.com/) | 2022 |
 | [Deltazone](https://store.steampowered.com/app/2127310/Deltazone/) | Developing | Programming Support | [EvolvedPhoenix Studios](https://twitter.com/EvolvedPhnixDev) | 2022 |
-| [Where Is My Parking Spot 2](https://store.steampowered.com/app/1631260/Where_Is_My_Parking_Spot__Parking_Reimagined) | On-Hold | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2021 |
+| [Where Is My Parking Spot 2](https://store.steampowered.com/app/1631260/Where_Is_My_Parking_Spot__Parking_Reimagined) | Canceled | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2021 |
 | [Happbee](https://sonicboomcolt.itch.io/happbee) | Finished | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2021 |
 | [Short Fuse](https://dynamite-stew.itch.io/short-fuse) | Finished | Lead Programmer / Networking Expert | [Dynamite Stew](https://dynamite-stew.itch.io/) | 2021 |
 | [Down The Hole](https://store.steampowered.com/app/1260160/Down_The_Hole/) | Finished | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2020 |
