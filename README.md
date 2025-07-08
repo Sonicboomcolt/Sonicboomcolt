@@ -8,7 +8,7 @@ Here you can see what I have done and/or doing.
 |---------|--------|------|--------------|------|
 | [JunkRats](https://store.steampowered.com/app/1495770) | Developing | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2025 |
 | [Turf War](https://sonicboomcolt.itch.io/turf-war) | Finished | Lead Programmer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2025 |
-| [Catto Pew Pew! VR](https://store.steampowered.com/app/2065330/Catto_Pew_Pew/) | Developing | Assisting Programmer | [Oakley Blade Games](https://oakleyblade.com/) | 2024 |
+| [Catto Pew Pew! VR](https://store.steampowered.com/app/2065330/Catto_Pew_Pew/) | Finished-Part | Assisting Programmer | [Oakley Blade Games](https://oakleyblade.com/) | 2024 |
 | [Curfiddle](https://sonicboomcolt.itch.io/curfiddle) | Finished | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2022 |
 | [HeadHunter](https://sonicboomcolt.itch.io/headhunter) | Finished | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2022 |
 | [Coffling](https://sonicboomcolt.itch.io/coffling) | Finished | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2022 |
