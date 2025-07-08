@@ -6,7 +6,7 @@ I’m currently looking for new opportunities.
 Here you can see what I have done and/or doing.
 | Project | Status | Role | Organization | Year |
 |---------|--------|------|--------------|------|
-| Unannounced Project | Developing | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2025 |
+| [JunkRats](https://store.steampowered.com/app/1495770) | Developing | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2025 |
 | [Turf War](https://sonicboomcolt.itch.io/turf-war) | Finished | Lead Programmer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2025 |
 | [Catto Pew Pew! VR](https://store.steampowered.com/app/2065330/Catto_Pew_Pew/) | Developing | Assisting Programmer | [Oakley Blade Games](https://oakleyblade.com/) | 2024 |
 | [Curfiddle](https://sonicboomcolt.itch.io/curfiddle) | Finished | Lead Programer | [Not-So Classic Games](https://www.notsoclassicgames.com/) | 2022 |
